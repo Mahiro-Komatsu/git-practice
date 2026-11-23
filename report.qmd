@@ -1,0 +1,12 @@
+---
+title: "Our group report"
+format:
+  html:
+    embed-resources: true
+---
+
+## Quarterly sales
+
+Invented teaching data.
+
+## Conclusion
