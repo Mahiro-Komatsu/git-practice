@@ -1,0 +1,6 @@
+chart.png
+report.html
+report_files/
+.quarto/
+__pycache__/
+.DS_Store
