@@ -7,7 +7,7 @@ format:
 
 ## Quarterly sales
 
-Invented teaching data.
+Invented teaching data. Sales are measured in thousands of Japanese yen.
 
 ![](chart.png)
 
