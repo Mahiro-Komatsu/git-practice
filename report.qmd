@@ -9,4 +9,8 @@ format:
 
 Invented teaching data.
 
+![](chart.png)
+
 ## Conclusion
+
+Q4 has the highest sales. Sales do not rise every quarter.
